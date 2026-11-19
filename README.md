@@ -27,4 +27,4 @@ A customizable, console-based Math Quiz Game developed in C++ to test and improv
 ![Gameplay Screen](quiz-questions-screen.png)
 
 ### Final Results Summary
-![Final Results Summary](Final-results-screen.png)
+![Final Results Summary](final-results-screen.png)
