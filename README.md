@@ -18,3 +18,5 @@ A customizable, console-based Math Quiz Game developed in C++ to test and improv
 1. Clone the repository or download the .cpp source file.
 2. Open the file in any C++ compiler/IDE (e.g., Visual Studio, Code::Blocks, or GCC).
 3. Compile and run the program to start the quiz.
+
+## 📸Sample Gameplay
